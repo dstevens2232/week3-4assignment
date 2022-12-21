@@ -1,0 +1,12 @@
+package week3_week4_assignment;
+
+public class week3_4_Hw {
+
+	public static void main(String[] args) {
+		int[] ages = {3, 9, 23, 64, 2, 8, 28, 93, 31};
+		System.out.println(ages [ages.length -1] -ages[0]);
+		
+
+	}
+
+}

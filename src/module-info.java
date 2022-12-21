@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author daqua
+ *
+ */
+module HelloWorld {
+}

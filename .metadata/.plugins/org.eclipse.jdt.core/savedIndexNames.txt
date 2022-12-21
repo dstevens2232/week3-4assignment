@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\daqua\eclipse-workspace\HelloWorld\.metadata\.plugins\org.eclipse.jdt.core
+1303381641.index
+1865797976.index
+412605113.index
+968339035.index
+1037155046.index
+2658553224.index
+1531943016.index
